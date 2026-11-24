@@ -1,0 +1,11 @@
+[project]
+name = "week3-fraud-detection"
+version = "0.1.0"
+description = "Bài B – Pre-class: EDA, kiểm tra leakage, baseline LR cho phát hiện gian lận"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.2",
+    "pandas>=2.2",
+    "scikit-learn>=1.6",
+]
